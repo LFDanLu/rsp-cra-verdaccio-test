@@ -5,6 +5,13 @@
   "homepage": ".",
   "dependencies": {
     "@adobe/react-spectrum": "latest",
+    "@react-spectrum/accordion": "latest",
+    "@react-spectrum/actionbar": "latest",
+    "@react-spectrum/autocomplete": "latest",
+    "@react-spectrum/avatar": "latest",
+    "@react-spectrum/color": "latest",
+    "@react-spectrum/searchwithin": "latest",
+    "@spectrum-icons/workflow": "latest",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
