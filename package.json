@@ -2,6 +2,7 @@
   "name": "verdacciorsp",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@adobe/react-spectrum": "latest",
     "@react-spectrum/button": "latest",
